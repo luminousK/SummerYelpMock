@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MapViewController.h
 //  SummerYelpMock
 //
-//  Created by cyk on 2017/8/26.
+//  Created by cyk on 2017/9/2.
 //  Copyright © 2017年 cyk. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MapViewController : UIViewController
 
 @end
-
